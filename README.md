@@ -15,6 +15,7 @@
 - These customer complaints are unstructured text data; so, traditionally, companies need to allocate the task of evaluating and assigning each ticket to the relevant department to multiple support employees. This becomes tedious as the company grows and has a large customer base.
 - created a model that can automatically classify customer complaints based on the products and services that the ticket mentions.
 - Following are the five clusters based on the product/service:
+		
 		1.Bank account services
 		2.Credit card / Prepaid card
 		3.Mortgages/loans
